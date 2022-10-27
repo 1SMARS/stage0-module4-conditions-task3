@@ -19,7 +19,7 @@ public class SalaryCalculator {
             return salary - (salary * twentyTaxes);
 
         } else if (salary < 0) {
-            Sreturn "wrong input!";
+            return "wrong input!";
         }
         else {
             return false;
