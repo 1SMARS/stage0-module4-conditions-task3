@@ -30,13 +30,13 @@ public class AlphabeticCharacters {
         }
 
         if (vow > 0) {
-            return "Vowel";
+             System.out.println("Vowel");
         }
         else if (con > 0) {
-            return "Consonant";
+             System.out.println("Consonant");
         }
         else {
-            return "wrong alphabet!";
+             System.out.println("wrong alphabet!");
         }
     }
 }
