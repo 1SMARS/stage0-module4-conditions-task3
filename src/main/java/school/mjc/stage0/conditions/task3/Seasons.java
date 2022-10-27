@@ -12,7 +12,7 @@ public class Seasons {
         } else if (month == 4) {
             System.out.println("Spring");
         } else if (month == 5) {
-            System.out.println("Summer");
+            System.out.println("Spring");
         } else if (month == 6) {
             System.out.println("Summer");
         } else if (month == 7) {
