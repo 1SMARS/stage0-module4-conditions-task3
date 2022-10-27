@@ -8,8 +8,8 @@ public class Divider {
         }
 
         else if (number % 5 == 0 && number % 11 == 0) {
-            return "Dividable";
+             System.out.println("Dividable");
         } else
-            return "Non-dividable";
+             System.out.println("Non-dividable");
     }
 }
