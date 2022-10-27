@@ -4,8 +4,8 @@ public class AliquotNumbers {
     public void isFirstAliquot(int first, int second) {
         
         if (second % first == 0) {
-            return "Aliquot";
+            System.out.println("Aliquot");
         } else
-            return "Not aliquot";
+             System.out.println("Not aliquot");
     }
 }
